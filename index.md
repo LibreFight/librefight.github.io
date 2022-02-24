@@ -1,5 +1,5 @@
 # Hello and welcome to the LibreFight website!
-## We do not have a definate roadmap:
+## We do not have a definite roadmap:
 - 1. make skeleton
 - 2. plan on characters (SuperTux, OpenSuspect, etc.)
 - 3. plan on modes
